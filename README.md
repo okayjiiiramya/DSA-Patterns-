@@ -1,44 +1,109 @@
-# 🚀 DSA Patterns 
+# 🚀 DSA Patterns
 
-A Java-based toolkit containing reusable templates for all major DSA interview patterns.  
-
----
-
-# 🧠 Included Patterns
-
-## 1. Two Pointers
-- Used for sorted arrays, pair problems, and optimization from O(n²) → O(n)
-
-## 2. Sliding Window
-- Used for subarray/substring problems and optimal range calculations
-
-## 3. Prefix Sum
-- Used for fast range sum queries and cumulative calculations
-
-## 4. Hashing
-- Used for fast lookup, frequency counting, duplicates, and mapping
-
-## 5. Binary Search
-- Used for sorted data, search problems, and optimization on answer space
-
-## 6. Stack
-- Used for expression evaluation, parentheses, and monotonic problems
-
-## 7. Recursion / Backtracking
-- Used for permutations, combinations, and exploring all possibilities
-
-## 8. Linked List
-- Used for pointer manipulation like reverse, merge, cycle detection
-
-## 9. Greedy
-- Used for locally optimal decisions leading to global optimal solution
-
-## 10. Dynamic Programming (DP)
-- Used for overlapping subproblems and optimization problems
-
-## 11. Graph (BFS)
-- Used for traversal, shortest path (unweighted), and connectivity
+A Java-based collection of reusable templates and solutions for the most important Data Structures & Algorithms patterns frequently asked in coding interviews.
 
 ---
 
+## 📖 About
+
+This repository contains the most important DSA patterns used in coding interviews and competitive programming.
+
+Instead of memorizing hundreds of problems, learn the underlying patterns and apply them to multiple questions.
+
+### 🎯 Goals
+- Crack coding interviews
+- Improve problem-solving skills
+- Master DSA patterns
+- Build a strong GitHub portfolio
+
+---
+
+## 🧠 Included Patterns
+
+| Pattern | Use Case | Time Complexity | Space Complexity |
+|----------|----------|----------------|----------------|
+| Two Pointers | Sorted arrays, pair problems | O(n) | O(1) |
+| Sliding Window | Subarray/substring problems | O(n) | O(1) / O(k) |
+| Prefix Sum | Range sum queries | O(n) preprocessing, O(1) query | O(n) |
+| Hashing | Lookup, frequency counting | O(1) average | O(n) |
+| Binary Search | Search in sorted data | O(log n) | O(1) |
+| Stack | Parentheses, monotonic stack | O(n) | O(n) |
+| Recursion / Backtracking | Permutations, combinations | O(2ⁿ) to O(n!) | O(n) |
+| Linked List | Reverse, merge, cycle detection | O(n) | O(1) |
+| Greedy | Local optimum → Global optimum | O(n) / O(n log n) | O(1) |
+| Dynamic Programming | Optimization problems | O(n²) (varies) | O(n) / O(n²) |
+| Graph (BFS) | Traversal, shortest path | O(V + E) | O(V) |
+
+---
+
+---
+
+## 📚 Learning Roadmap
+
+```text
+Arrays
+   ↓
+Hashing
+   ↓
+Two Pointers
+   ↓
+Sliding Window
+   ↓
+Prefix Sum
+   ↓
+Binary Search
+   ↓
+Stack
+   ↓
+Linked List
+   ↓
+Recursion / Backtracking
+   ↓
+Trees
+   ↓
+Graphs
+   ↓
+Dynamic Programming
+   ↓
+Greedy
+```
+
+---
+
+## 💻 Language Used
+
+```java
+Java
+```
+
+---
+
+## 🤝 Contributions
+
+Contributions are welcome!
+
+Feel free to:
+- Add new patterns
+- Improve existing solutions
+- Optimize code
+- Fix bugs
+- Enhance documentation
+
+---
+
+## ⭐ Support
+
+If you find this repository useful:
+
+- Star ⭐ the repository
+- Fork 🍴 the repository
+- Share 📢 with friends
+
+---
+
+## 📌 Author
+
+Made with ❤️ for Interview Preparation and Competitive Programming.
+
+Happy Coding! 🚀
 
