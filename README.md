@@ -101,7 +101,6 @@ If you find this repository useful:
 
 ---
 
-## 📌 Author
 
 Made with ❤️ for Interview Preparation and Competitive Programming.
 
