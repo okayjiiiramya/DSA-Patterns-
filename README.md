@@ -41,17 +41,4 @@ A Java-based toolkit containing reusable templates for all major DSA interview p
 
 ---
 
-# 📂 Project Structure
 
-DSA-Patterns-Toolkit/
-│
-├── DSA_Patterns.java
-└── README.md
-
----
-
-# ⚙️ How to Run
-
-### Compile
-```bash
-javac DSA_Patterns.java
